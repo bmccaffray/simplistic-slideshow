@@ -1,0 +1,19 @@
+.slideshow {
+	margin: 0 auto;
+	width: 600px;
+	height: 250px;
+	overflow: hidden;
+}
+
+.slideshow img {
+	width: 600px;
+	height: 250px;
+}
+
+.display form {
+	display: inline-block;
+}
+
+.display img {
+	width: 150px;
+}
