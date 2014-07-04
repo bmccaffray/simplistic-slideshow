@@ -59,7 +59,6 @@ if ($handle = opendir($dir)) {
 	</script>
 </head>
 <body>
-<div class="container">
 	<div class="slideshow">
 	<?php for($i = 0; $i < count($myFileArray); $i++){ ?>
 		<div><img src="<?=$myFileArray[$i]?>"/></div>
@@ -80,5 +79,4 @@ if ($handle = opendir($dir)) {
 		</form>
 	<? } ?>
 	</div>
-</div>
 </body>
