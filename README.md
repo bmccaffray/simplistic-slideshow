@@ -2,7 +2,7 @@
 
 Simple slideshow feature with image adding/deleting capabilities.
 
-<a href="http://brettmccaffray.com/gitex/simplistic-slideshow/">DEMO</a>
+<a href="http://brettmccaffray.com/gitex/simplistic-slideshow/" target="_blank">DEMO</a>
 
 <h3>installation instructions</h3>
 
